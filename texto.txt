@@ -77,3 +77,5 @@ Ainda assim, podem haver erros FATAIS. Que podem ser devido a um desalinhamento/
 Como resolver:
 
 git config pull.rebase true
+
+**
