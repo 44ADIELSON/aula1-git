@@ -78,4 +78,4 @@ Como resolver:
 
 git config pull.rebase true
 
-**
+****
